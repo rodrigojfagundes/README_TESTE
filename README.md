@@ -9,7 +9,7 @@
  
  - E acredito que o codigo de hoje pode tornar o mundo de amanhã um lugar ainda melhor.<br>
 
-  - Nas horas vagas eu gosto de tecnologia, caminhar, fotografias, ufologia e musica eletronica.
+  - Nas horas vagas eu gosto de tecnologia, caminhar, fotografias, astronomia e musica eletronica.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://br.linkedin.com/in/rodrigo-jos%C3%A9-fagundes-ab200891)
