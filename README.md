@@ -17,8 +17,7 @@
 )](mailto:rodrigojosefagundes@gmail.com)
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigojfagundes&show_icons=true&theme=radical)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojfagundes&layout=compact)
 
 # Stacks
 <div style="display: inline_block"><br/>
